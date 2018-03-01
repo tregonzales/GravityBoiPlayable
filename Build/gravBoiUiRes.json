@@ -1,0 +1,13 @@
+{
+"companyName": "Tre,Jeremy,Phillip",
+"productName": "Gravity Boi",
+"dataUrl": "gravBoiUiRes.data.unityweb",
+"asmCodeUrl": "gravBoiUiRes.asm.code.unityweb",
+"asmMemoryUrl": "gravBoiUiRes.asm.memory.unityweb",
+"asmFrameworkUrl": "gravBoiUiRes.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
